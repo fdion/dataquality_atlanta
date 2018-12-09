@@ -2,7 +2,7 @@
 
 Garbage In, Model Out? slides and notebooks from datascicon.tech in Atlanta
 
-<img src="img/page3.pmg">
+<img src="img/page3.png">
 
 ### About me
 Francois Dion
