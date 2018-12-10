@@ -45,10 +45,12 @@ Notebooks folder has all the notebooks and data files. Presentation.ipynb is a r
  - J. W. Tukey, The Future of Data Analysis, in The Annals of Mathematical Statistics  (1962)
  - A. F. Dutka, H. H. Hanson, Fundamental of Data Normalization (1989), Addison-Wesley
  - E. F. Codd, The Relational Model for Database Management version 2 (1991), Addison-Wesley
- - Transportation Research Board of the National Academies, NCHRP report 506 Quality and Accuracy of Positional Data in Transportation
+ - United Nations Statistical Commission, Statistical Data Editing, Methods and Techniques Volume 2 (1997), United Nations
  - D. Loshin, Enterprise Knowledge Management (2001), Morgan Kaufmann
+ - Transportation Research Board of the National Academies, NCHRP report 506 Quality and Accuracy of Positional Data in Transportation (2003)
  - G. Latini, G. Passerini, Handling Missing Data: Applications to environmental analysis (2004), WIT Press
  - C. Batini, M. Scannapieco, Data Quality (2006), Springer
+ - United Nations Statistical Commission, Statistical Data Editing, Impact on Data Quality Volume 3 (2006), United Nations
  - L. P. English, Information Quality Applied: Best Practices for Improving Business Information, Processes, and Systems (2009), Wiley
  - C. O'Neil, Weapons of Math Destruction (2016), Crown
  - F. Dion, Stemgraphic a Stem-and-Leaf Plot for the Age of Big Data (2016)
