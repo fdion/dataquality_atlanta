@@ -69,3 +69,7 @@ And of course the various other publications I have listed in my "ex-libris" ser
 [part IV](https://www.linkedin.com/pulse/ex-libris-data-scientist-part-iv-code-francois-dion),
 [part V](https://www.linkedin.com/pulse/ex-libris-data-scientist-part-v-visualization-francois-dion/) and 
 [part VI](https://www.linkedin.com/pulse/ex-libris-data-scientist-part-vi-communication-francois-dion/))
+
+
+See also the LinkedIn article on data quality I posted here:
+[What grade of data are you using?](https://www.linkedin.com/pulse/what-grade-data-you-using-francois-dion/)
